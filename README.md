@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Jordan
-***
 Welcome to my corner of the internet, where tech and creativity meet!
 
 🎓 BA in Computer Science @ **Cornell University** | 3.3 GPA | Spring 2025
 
-💡 Project experience in **game development** and **audio programming**
+💡 Projects in **game development** and **audio programming**
 
 🏫 Currently diving into **machine learning**, **reverse engineering**, and **low-level programming**
 ***
 ## ✏️ Skills
-- Languages: C/C++, Python, Java, C#, JavaScript/TypeScript, SQL
-- Technologies: TensorFlow, PyTorch, JUCE, Unity Engine, Node.js, AWS (DynamoDB, Lambda), Git
+- Languages: **C/C++, Python, Java, C#, JavaScript/TypeScript, SQL**
+- Technologies: **TensorFlow, PyTorch, JUCE, Unity Engine, Node.js, AWS (DynamoDB, Lambda), Git**
 
 ***
 ## Featured Projects
 🎵 Omega Comp Audio Processor (VST3/AU formats)
-Creator and Lead Developer of commercially released real-time audio software
+Creator and Lead Developer of commercially released real-time audio software with real-world applications
 
 - Built using C++, JUCE, and Visual Studio
 - Implemented AWS-based product licensing backend with Python
@@ -34,6 +33,15 @@ Project Lead for Java game development
 - Led team of 8 programmers and artists through full development cycle
 - Improved average framerate by 15% through performance profiling
 - Established GitHub best practices and Agile/Scrum workflows
+
+🎛️ Ghidra Reverse Engineering
+Revived abandoned software from 1999 using Ghidra
+
+- Decompiled assembly code from abandoned audio software binary
+- Wrote Python scripts for hexadecimal parsing
+- Used AI-powered tools to search 25,000 lines of code for parameter checks
+- Built exact reproduction of original processing algorithms, achieving compatibility with modern operating systems
+
 <!--
 **Jordan-Rudolph/Jordan-Rudolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
