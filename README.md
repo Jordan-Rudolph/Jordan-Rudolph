@@ -8,8 +8,8 @@ Welcome to my corner of the internet, where tech and creativity meet!
 🏫 Currently diving into **machine learning**, **reverse engineering**, and **low-level programming**
 ***
 ## ✏️ Skills
-- Languages: **C/C++, Python, Java, C#, JavaScript/TypeScript, SQL**
-- Technologies: **TensorFlow, PyTorch, JUCE, Unity Engine, Node.js, AWS (DynamoDB, Lambda), Git**
+- Languages: **C/C++, Python, Java, SQL**
+- Technologies: **TensorFlow, PyTorch, JUCE, Unity Engine, AWS (DynamoDB, Lambda), Git**
 
 ***
 ## Featured Projects
@@ -45,6 +45,13 @@ Revived abandoned software from 1999 using Ghidra
 - Wrote Python scripts for hexadecimal parsing
 - Used AI-powered tools to search 25,000 lines of code for parameter checks
 - Built exact reproduction of original processing algorithms, achieving compatibility with modern operating systems
+
+***
+## 🌱 A Bit About Me
+
+- Fueled by curiosity
+- Love building products that combine technical and creative accomplishments
+- Always learning new tools and technologies!
 
 <!--
 **Jordan-Rudolph/Jordan-Rudolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
