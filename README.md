@@ -2,14 +2,19 @@
 ***
 Welcome to my corner of the internet, where tech and creativity meet!
 
-🎓 BA in Computer Science @ **Cornell University**, 3.3 GPA
+🎓 BA in Computer Science @ **Cornell University** | 3.3 GPA | Spring 2025
 
+💡 Project experience in **game development** and **audio programming**
 
-
+🏫 Currently diving into **machine learning**, **reverse engineering**, and **low-level programming**
+***
+## ✏️ Skills
+- Languages: C/C++, Python, Java, C#, JavaScript/TypeScript, SQL
+- Technologies: TensorFlow, PyTorch, JUCE, Unity Engine, Node.js, AWS (DynamoDB, Lambda), Git
 
 ***
 ## Featured Projects
-🎵 Omega Comp Audio Processor
+🎵 Omega Comp Audio Processor (VST3/AU formats)
 Creator and Lead Developer of commercially released real-time audio software
 
 - Built using C++, JUCE, and Visual Studio
