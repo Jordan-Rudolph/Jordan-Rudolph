@@ -14,6 +14,7 @@ Welcome to my corner of the internet, where tech and creativity meet!
 ***
 ## Featured Projects
 🎵 Omega Comp Audio Processor (VST3/AU formats)
+
 Creator and Lead Developer of commercially released real-time audio software with real-world applications
 
 - Built using C++, JUCE, and Visual Studio
@@ -21,6 +22,7 @@ Creator and Lead Developer of commercially released real-time audio software wit
 - Analyzed target market to identify opportunities in sound design software
 
 🎮 Cornell Development in Games Association
+
 Lead Audio Developer
 
 - Developed efficient audio integration for Unity engine using C#
@@ -28,6 +30,7 @@ Lead Audio Developer
 - Coordinated with cross-functional teams on complex features
 
 🌱 Phytopolis
+
 Project Lead for Java game development
 
 - Led team of 8 programmers and artists through full development cycle
@@ -35,6 +38,7 @@ Project Lead for Java game development
 - Established GitHub best practices and Agile/Scrum workflows
 
 🎛️ Ghidra Reverse Engineering
+
 Revived abandoned software from 1999 using Ghidra
 
 - Decompiled assembly code from abandoned audio software binary
