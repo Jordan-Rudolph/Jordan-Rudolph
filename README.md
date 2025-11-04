@@ -18,7 +18,7 @@ Welcome to my corner of the internet, where tech and creativity meet!
 Creator and Lead Developer of commercially released real-time audio software with real-world applications
 
 - Built using C++, JUCE, and Visual Studio
-- Implemented AWS-based product licensing backend with Python
+- Implemented AWS-based product licensing backend with Python and RESTful APIs
 - Analyzed target market to identify opportunities in sound design software
 
 🎮 Cornell Development in Games Association
