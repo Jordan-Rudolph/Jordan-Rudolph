@@ -43,7 +43,7 @@ Revived abandoned software from 1999 using Ghidra
 
 - Decompiled assembly code from abandoned audio software binary
 - Wrote Python scripts for hexadecimal parsing
-- Used AI-powered tools to search 25,000 lines of code for parameter checks
+- Extracted critical functions from 25,000 lines of C code
 - Built exact reproduction of original processing algorithms, achieving compatibility with modern operating systems
 
 ***
