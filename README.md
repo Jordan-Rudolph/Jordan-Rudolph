@@ -9,7 +9,7 @@ Welcome to my corner of the internet, where tech and creativity meet!
 ***
 ## ✏️ Skills
 - Languages: **C/C++, Python, Java, SQL**
-- Technologies: **TensorFlow, PyTorch, JUCE, Unity Engine, AWS (DynamoDB, Lambda), Git**
+- Technologies: **AWS, JUCE, Unity Engine, Git, TensorFlow**
 
 ***
 ## Featured Projects
