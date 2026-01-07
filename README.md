@@ -37,15 +37,6 @@ Project Lead for Java game development
 - Improved average framerate by 15% through performance profiling
 - Established GitHub best practices and Agile/Scrum workflows
 
-🎛️ Ghidra Reverse Engineering
-
-Revived abandoned software from 1999 using Ghidra
-
-- Decompiled assembly code from abandoned audio software binary
-- Wrote Python scripts for hexadecimal parsing
-- Extracted critical functions from 25,000 lines of C code
-- Built exact reproduction of original processing algorithms, achieving compatibility with modern operating systems
-
 ***
 ## 🌱 A Bit About Me
 
