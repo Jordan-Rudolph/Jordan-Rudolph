@@ -38,11 +38,11 @@ Project Lead for Java game development
 - Established GitHub best practices and Agile/Scrum workflows
 
 ***
-## 🌱 A Bit About Me
+## ⚡ A Bit About Me
 
 - Fueled by curiosity
 - Love building products that combine technical and creative accomplishments
-- Always learning new tools and technologies!
+- Always learning new tools and technologies
 
 <!--
 **Jordan-Rudolph/Jordan-Rudolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
