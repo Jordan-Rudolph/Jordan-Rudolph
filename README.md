@@ -5,7 +5,7 @@ Welcome to my corner of the internet, where tech and creativity meet!
 
 💡 Projects in **game development** and **audio programming**
 
-🏫 Currently diving into **machine learning**, **reverse engineering**, and **low-level programming**
+🏫 Currently diving into **digital signal processing**, **machine learning**, and **low-level programming**
 ***
 ## ✏️ Skills
 - Languages: **C/C++, Python, Java, SQL**
